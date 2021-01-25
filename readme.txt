@@ -1,2 +1,2 @@
-开始学习人工智能的开始。
-人工智能是我一生的追求，我必将推动人工智能的发展。
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
